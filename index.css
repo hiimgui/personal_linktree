@@ -1,4 +1,5 @@
 body {
+  z-index: 1;
   background-color: #6e738d;
   margin: 0;
   font-family: "Cascadia Code";
