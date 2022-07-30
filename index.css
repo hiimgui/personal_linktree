@@ -45,6 +45,7 @@ header > h1 {
 }
 ul {
   z-index: 1;
+  position: relative;
   box-sizing: border-box;
   list-style: none;
   margin: 0 auto;
